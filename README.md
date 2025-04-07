@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_3GMYSvv)
 # Bienvenido a Turisteando por Mexico ✈️
 ---
 Turisteando es un smart contract que te ayuda mantenerte organizado en  tus viajes. Este proyecto permite a los usuarios Registrar sus viajes y añadir reservaciones para un servicio de hospedaje, transporte, tours, etc. En un ambiente completamente descentralizado y así permitir a todos los usuarios obtener los recursos facilmente sin tener que visitar cientos de páginas diferentes hasta conseguir el recurso que buscaban.
